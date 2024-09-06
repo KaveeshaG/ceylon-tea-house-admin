@@ -3,8 +3,6 @@
 import { useState } from 'react'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import SideBar from '@/app/_components/SideBar/SideBar'
-import NavBar from '@/app/_components/NavBar/NavBar'
 import Overview from '@/app/_components/Overview/Overview'
 
 export default function Dashboard() {
